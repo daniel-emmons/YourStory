@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 42, in script
+    $ test_bool = true
+  File "game/script.rpy", line 42, in <module>
+    $ test_bool = true
+NameError: name 'true' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 42, in script
+    $ test_bool = true
+  File "F:\Users\Lillian\Downloads\renpy-6.99.14.1-sdk\renpy\ast.py", line 848, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "F:\Users\Lillian\Downloads\renpy-6.99.14.1-sdk\renpy\python.py", line 1812, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "game/script.rpy", line 42, in <module>
+    $ test_bool = true
+NameError: name 'true' is not defined
+
+Windows-8-6.2.9200
+Ren'Py 6.99.14.1.3218
+YourStory 1.0
+Sat Feb 17 22:51:45 2018

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Lillian-PC" Modified="2018-02-18 20:13:25 -0800" ModID="3F541F5A-B6DF-425B-9D2D-7032F822F697">
+    <Binder>
+        <BinderItem ID="0" UUID="679E624A-529F-4A5A-AFDD-8A604638FFFC" Created="2018-02-17 16:12:59 -0800" Modified="2018-02-17 16:12:59 -0800" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="A7025C52-2404-4207-BCB0-2A9F86BA5F4F" Created="2018-02-17 16:12:59 -0800" Modified="2018-02-17 16:12:59 -0800" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="9A9F1961-FE77-4585-AEDA-644DE613F0E7" Created="2018-02-17 16:12:59 -0800" Modified="2018-02-17 16:12:59 -0800" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" UUID="77E9D7CB-A01A-44DF-A368-CB219B2C3A3C" Created="2018-02-17 16:13:10 -0800" Modified="2018-02-17 16:16:45 -0800" Type="Text">
+                    <Title>Plot Points</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>14,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="F0ECD685-F162-48DA-BF66-1C3742E9F0F3" Created="2018-02-17 23:21:14 -0800" Modified="2018-02-17 23:21:18 -0800" Type="Text">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" UUID="366F5A2E-E299-4CDB-B492-7B40E98A2323" Created="2018-02-17 16:17:27 -0800" Modified="2018-02-17 23:19:51 -0800" Type="Text">
+                    <Title>Themes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>27,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="0194A829-635A-4F35-ADE7-6903C9043AB6" Created="2018-02-17 23:01:27 -0800" Modified="2018-02-17 23:15:14 -0800" Type="Text">
+                    <Title>Guiding Principals</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>328,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="7" UUID="E3036E71-2513-4EE4-866C-D3BDA4186F53" Created="2018-02-17 23:03:29 -0800" Modified="2018-02-18 20:13:23 -0800" Type="Text">
+                            <Title>Mechanic Exploration</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1327,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="8" UUID="921F3FD4-58C0-4E19-A31E-6B8C01B7CA10" Created="2018-02-17 23:17:28 -0800" Modified="2018-02-18 18:28:43 -0800" Type="Text">
+                            <Title>Plot Shots</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>394,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="A51A0BE1-BA86-4C67-97CF-CC507F48121B" Created="2018-02-17 16:12:59 -0800" Modified="2018-02-17 16:12:59 -0800" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="458" Characters="2601" Date="2018-02-17 23:01:15 -0800"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="38099442-AC74-45C9-BCFD-AD780DAD34A9" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="8685DBF1-ADA2-4951-84D4-416760FC05B1" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="Letter" LeftMargin="8.39057" RightMargin="8.39057" TopMargin="8.39057" BottomMargin="8.39057" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
