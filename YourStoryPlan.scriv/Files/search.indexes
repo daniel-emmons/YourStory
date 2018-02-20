@@ -47,10 +47,23 @@ Notes to keep in mind:
 
 3. This must be a setting in which people can make memories
 	* My initial bias keeps pushing me towards a game in which you can choose which people to do things with. Some options
-		- Walking dead camp scene style: you move around a scene and can choose a few people to have a minor scene with. Do this a few times and eventually you 			unlock some memories down the line.
+		- Walking dead camp scene style: you move around a scene and can choose a few people to have a minor scene with. Do this a few times and eventually 				you unlock some memories down the line.
 		- Persona style: Story takes place over N “days”. You spend each time segment with a character building a meter towards a new event.
 		- Affection meter tracking: Have a very linear story with multiple choices that change character affection. Do checks at certain story points for 				memory scenes.
 		- Some combo of the above.I think you can do 1 and 3 pretty effectively
+	* Where can we make memories? 
+		- High school is the obvious one. I’m a little unsure how I feel about troping that hard.
+		- Small town? Harvest moon size/style?
+
+
+4. What are some tricks we can play regarding memories
+	* Amnesia Loop - the player has done this before
+	* Amnesiac Dissonance - multiple characters remember a past/alternate reality in which things may have been different for some of them
+	* We can make the whole thing a Memory Gambit. This would be fun to make!
+
+
+5. Player must spend points to change peoples emotions/attributes/whatevers. In the final rundown they can change their own stats using the memories they collected.
+
 
 
 
@@ -60,24 +73,42 @@ Maybe the memories you give to other characters give them power behind the scene
 
 The ending credits could be the memory CGs fading to dust with the stinger being the friend characters come back and start anew with you. We could also pull a ‘you’ve done this before’ kinda thing after your memories fade completely.
 
+When saving, the alt personality can pop up and say ‘Current State Saved’ as an implication that it was his powers that reverted time. He can restore you to earlier “saves”
 
+The memory CGs can have slightly different accessories on the characters/injuries/changes based on earlier actions. IE, if the player gave them a moon pendant rather than a sun pendant, it shows up correctly in the CG.
 
-
-
-
-
-
-
-</Text>
+A character asks ‘do  you know my favorite pie flavor?’ The player answers a multiple choice and is always right. This could be construed as them reality writing.</Text>
         </Document>
         <Document ID="8">
             <Title>Plot Shots</Title>
             <Text>One of the people in the original picture book photo is the villain. They were part of some research group with the protag. 
 
-A character might die. Your memories of them become an important point (they’re not gone. They’ve helped shape you and put a little of themselves in you)</Text>
+A character might die. Your memories of them become an important point (they’re not gone. They’ve helped shape you and put a little of themselves in you)
+
+If your memories are taken, the pictures in your book become static. Or if you’re doing bomber’s notebook style, 
+
+
+
+Memory Gambit - Let’s take a little time to figure out WHY the player would execute on a memory gambit, and how that fits with memory collection.
+ 	* The memories are probably more mundane then fantastic, which means it takes place in a low drama situation for the most part
+	* The past of the town could have been corrupted, and the player reverts to an earlier “save”
+	* Why would things be different? They made memories originally, sealed them, then wanted to make new ones?
+	* Are they aware of a terrible power within them and Memory Gambit is their way to seal it?
+	* What if we went meta with it. The player (the human) did this ‘memory wipe’ to enjoy the game again. Knowing that any subsequent playthroughs would be way more mechanical and less engaging. This feels really hard to write correctly, but is my favorite idea so far.
+	
+Lets talk about the meta angle.  The idea of willingly giving up your memories as an important crescendo moment kind of runs counter to the ‘I reset my memories for funsies’  What else we got?
+
+	* They come to fight the big bad but didn’t have enough memories to fight him, so he reset time and memory in order to give himself another shot. This feels a little dry, imo. There’s gotta be something better and more tied in with the theme.
+	* The player, or their companion, is an evil SOB who puts them in this place to collect memories to power some scheme. The climax has a memory battle where the player gives up their memories to protect their new friends.
+	* The player has retrograde amnesia and everyone but them knows it. They wake up that day with a camera by their bed with no idea how it got there/they think its a present, whatever.  There is a real challenge in writing; several characters all have to keep a large secret from the player and feel natural. This no longer really qualifies for a memory gambit, but maybe thats okay.
+
+Retrograde angle -  someone leaves the player a camera with a note(?). They leave their house and run into best friend. The friend is super excited about the camera “Hey, that’s great!”  The subtext is because they hope it’ll help you remember stuff. There is a reveal at some point, and the goal turns to fixing your amnesia. “If we can just find out the cause of the amnesia in the first place, maybe we can fix it. The cause was a MIND BANDIT OOOOOOOOOOO. Some big bad had a mind fight with you leaving you with your affliction. This pushes me towards having some kind of combat system where you can mind fight other people. You can use it to help people get over their problems.
+
+</Text>
         </Document>
         <Document ID="9">
             <Title>Characters</Title>
         </Document>
+        <Document ID="10"/>
     </Documents>
 </SearchIndexes>
