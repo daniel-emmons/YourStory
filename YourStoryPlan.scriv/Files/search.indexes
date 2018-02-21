@@ -17,8 +17,14 @@
             <Title>Themes</Title>
             <Text>What is this game about?
 
+Whats the HOOK: 
+“Making friends is a whole lot easier when you can read minds.”
+“
 
-</Text>
+Mechanics:
+* Emotion Reading
+* Bond Forming
+* Memory Spending</Text>
         </Document>
         <Document ID="6">
             <Title>Guiding Principals</Title>
@@ -66,6 +72,28 @@ Notes to keep in mind:
 
 
 
+——
+What will constitute a ‘memory’ scene?
+
+The ones that are coolest to me are the simple ones. Getting ramen with your buddy, a night time viewing of fireflies, that sort of thing.
+-What does this inform about the rest of the game?
+* It’s a lot less manipulative than the whole ‘you can see people’s emotions’ angle.
+* You probably start erring into the time management side of stuff. MAYBE? 
+-Postulate: its hard to make getting to these memory events into a mechanic. Doesn’t seem right, refute that
+* We’re framing the memory scenes as rewards for the player. What is the puzzle they have to figure out?
+* I still like the idea of reading emotional state. I think that lets the game be unique. I don’t think it necessitates adding a bunch more baggage
+
+
+——
+Emotion Reading
+The initial ways this pushes are pretty dark. You’re manipulating emotional states, you’re treating them like a game, like they’re disposable.
+
+
+
+—-
+
+
+
 
 - Side Conversation -
 
@@ -87,7 +115,7 @@ A character might die. Your memories of them become an important point (they’r
 
 If your memories are taken, the pictures in your book become static. Or if you’re doing bomber’s notebook style, 
 
-
+I think the characters are Espers
 
 Memory Gambit - Let’s take a little time to figure out WHY the player would execute on a memory gambit, and how that fits with memory collection.
  	* The memories are probably more mundane then fantastic, which means it takes place in a low drama situation for the most part
@@ -110,5 +138,87 @@ Retrograde angle -  someone leaves the player a camera with a note(?). They leav
             <Title>Characters</Title>
         </Document>
         <Document ID="10"/>
+        <Document ID="11">
+            <Title>Retrograde</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Plot</Title>
+        </Document>
+        <Document ID="13">
+            <Title>Outline</Title>
+            <Text>Dream: Whatever event causes the amnesia 
+Player wakes up (allude to time gap “what day is it even?”)
+Sees a day by day calendar 
+Sees camera
+“Hey this might be neat”
+Picks it up and leaves
+Runs into Friend1 (who was waiting outside the house to escort them along
+Friend1 inquires about camera, and thinks that taking some pictures would be an awesome idea! (they know about the amnesia)
+Friend1 takes the player along with them
+They end up meeting a few others to do a thing
+
+ 
+
+
+
+Is this just a linear story?
+
+
+
+
+
+
+
+
+
+Questions
+* where did the camera come from?
+* what is friend1 doing outside player’s house? 
+* what is on the day by day calendar? (some inspirational quote)</Text>
+        </Document>
+        <Document ID="14">
+            <Title>Memory Gambit</Title>
+        </Document>
+        <Document ID="15">
+            <Title>Summary</Title>
+            <Text>Summary
+
+One of the villagers is trying to bring the hero back from the dead. The hero is a chronomancer, and when they are brought back, they cause a time anomaly and reset the clock 24 hours as a last resort, trying to keep their fate in place. The hero was a passing traveler who got caught in the first time explosion.
+
+
+——
+World Notes
+
+This can operate in the ‘one power/person rule’
+
+
+
+——
+
+
+</Text>
+        </Document>
+        <Document ID="16">
+            <Title>Looper</Title>
+        </Document>
+        <Document ID="17">
+            <Title>Characters</Title>
+            <Text>After the arcanas
+
+Fool - The human player
+Magician - The companion character
+Priestess - The player character
+Emperor - The husband of the doctor. Chief science man
+Empress - The Doctor at the hospital 
+Hierophant- 
+Lovers - In love with one of the other characters
+Chariot - True Antagonist
+Wheel - A gambler/drunk that bums around town
+Strength - 
+Hermit - A ghost from a long time ago
+Justice - Apprentice to the emperor
+Hanged - The town’s old hero. Chronomancer, resets the clock
+Death - Old man, partner (lover?) of Hanged. </Text>
+        </Document>
     </Documents>
 </SearchIndexes>
