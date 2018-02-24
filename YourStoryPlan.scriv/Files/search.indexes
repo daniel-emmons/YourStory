@@ -210,15 +210,78 @@ Magician - The companion character
 Priestess - The player character
 Emperor - The husband of the doctor. Chief science man
 Empress - The Doctor at the hospital 
-Hierophant- 
+Hierophant (High Priest, opposite the Priestess)- 
 Lovers - In love with one of the other characters
-Chariot - True Antagonist
+Chariot (power, control) -
 Wheel - A gambler/drunk that bums around town
 Strength - 
-Hermit - A ghost from a long time ago
+Hermit - A ghost from long ago
 Justice - Apprentice to the emperor
-Hanged - The town’s old hero. Chronomancer, resets the clock
-Death - Old man, partner (lover?) of Hanged. </Text>
+Hanged - The town’s old hero. Chronomancer, resets the clock.
+Death - Old man, partner (lover?) of Hanged. 
+
+
+Character Details:
+
+Emperor - The husband of the doctor. Chief science man
+* regulates something. Chief of police style. They know a bunch about the situation but aren’t intimately aware of what’s going on.
+
+Empress - Power: Evaluation Eye (can size up people in a glance, detecting bodily and emotional harm)
+
+* Is taking care of the Priestess when they wake up
+* on subsequent routes, they can change their lines because they can sense differences in the player
+
+Hierophant (High Priest, opposite the Priestess)- 
+
+Lovers - In love with one of the other characters
+
+Chariot (power, control) -
+
+Wheel - Power: Imperfect Clairvoyance 
+
+Strength - 
+
+Hermit - Power: Spiritual Echo (leaves an imprint of themselves, turning to a ghost)
+
+Justice - Apprentice to the emperor
+
+* Same age as Priestess. 
+* Is investigating chronal distortions
+* Priestess talks to Justice in order to find out something related to the time stuff
+* Justice eventually catches up on what goes on. They form a connection with the Priestess. Maybe when it gets hard, they’re a shoulder to cry onasdasf
+
+Hanged - The town’s old hero. Chronomancer, resets the clock.
+
+Death - 
+
+
+* The true antagonist has taught them how to use their power to resurrect the Hanged
+* Nighttime ritual to resurrect Hanged
+* Has words with hanged, then is reset
+* </Text>
         </Document>
+        <Document ID="18">
+            <Title>Plot Points</Title>
+            <Text>Prologue ish - travelling somewhere, caught in the explosion caused by the first revival
+
+
+
+
+
+Player finds a note written by the Hanged buried somewhere years ago. Uses this to convince death to stop the ritual
+
+—
+Between loops
+
+If we use a ‘long buried note’ to end this thing, then the Hanged can’t talk to the player. Do we need anything here? Maybe the occasional flashback when they accomplish something?
+
+
+—
+
+
+
+</Text>
+        </Document>
+        <Document ID="19"/>
     </Documents>
 </SearchIndexes>
