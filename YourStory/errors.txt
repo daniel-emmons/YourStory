@@ -2,9 +2,284 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 59: choice menuitem expects a non-empty block.
-    "Romance." if test_bool:
-                            ^
+File "game/screens.rpy", line 5: expected statement.
+    init offset = -1
+                ^
 
-Ren'Py Version: Ren'Py 6.99.14.1.3218
-Sat Feb 17 23:22:18 2018
+File "game/screens.rpy", line 13: style property properties is not known.
+    properties gui.text_properties()
+              ^
+
+File "game/screens.rpy", line 17: style property properties is not known.
+    properties gui.text_properties("input", accent=True)
+              ^
+
+File "game/screens.rpy", line 21: style property properties is not known.
+    properties gui.text_properties("hyperlink", accent=True)
+              ^
+
+File "game/screens.rpy", line 25: style property properties is not known.
+    properties gui.text_properties("interface")
+              ^
+
+File "game/screens.rpy", line 29: style property properties is not known.
+    properties gui.button_properties("button")
+              ^
+
+File "game/screens.rpy", line 32: style property properties is not known.
+    properties gui.text_properties("button")
+              ^
+
+File "game/screens.rpy", line 37: style property properties is not known.
+    properties gui.text_properties("label", accent=True)
+              ^
+
+File "game/screens.rpy", line 40: style property properties is not known.
+    properties gui.text_properties("prompt")
+              ^
+
+File "game/screens.rpy", line 55: style property base_bar is not known.
+    base_bar Frame("gui/scrollbar/horizontal_[prefix_]bar.png", gui.scrollbar_borders, tile=gui.scrollbar_tile)
+            ^
+
+File "game/screens.rpy", line 60: style property base_bar is not known.
+    base_bar Frame("gui/scrollbar/vertical_[prefix_]bar.png", gui.vscrollbar_borders, tile=gui.scrollbar_tile)
+            ^
+
+File "game/screens.rpy", line 65: style property base_bar is not known.
+    base_bar Frame("gui/slider/horizontal_[prefix_]bar.png", gui.slider_borders, tile=gui.slider_tile)
+            ^
+
+File "game/screens.rpy", line 70: style property base_bar is not known.
+    base_bar Frame("gui/slider/vertical_[prefix_]bar.png", gui.vslider_borders, tile=gui.slider_tile)
+            ^
+
+File "game/screens.rpy", line 75: style property padding is not known.
+    padding gui.frame_borders.padding
+           ^
+
+File "game/screens.rpy", line 99: u'style_prefix' is not a keyword argument or valid child for the screen statement.
+    style_prefix "say"
+                ^
+
+File "game/screens.rpy", line 149: style property padding is not known.
+    padding gui.namebox_borders.padding
+           ^
+
+File "game/screens.rpy", line 152: style property properties is not known.
+    properties gui.text_properties("name", accent=True)
+              ^
+
+File "game/screens.rpy", line 157: style property properties is not known.
+    properties gui.text_properties("dialogue")
+              ^
+
+File "game/screens.rpy", line 175: u'style_prefix' is not a keyword argument or valid child for the screen statement.
+    style_prefix "input"
+                ^
+
+File "game/screens.rpy", line 192: style property properties is not known.
+    properties gui.text_properties("input_prompt")
+              ^
+
+File "game/screens.rpy", line 208: u'style_prefix' is not a keyword argument or valid child for the screen statement.
+    style_prefix "choice"
+                ^
+
+File "game/screens.rpy", line 232: style property properties is not known.
+    properties gui.button_properties("choice_button")
+              ^
+
+File "game/screens.rpy", line 235: style property properties is not known.
+    properties gui.button_text_properties("choice_button")
+              ^
+
+File "game/screens.rpy", line 251: u'style_prefix' is not a keyword argument or valid child for the hbox statement.
+    style_prefix "quick"
+                ^
+
+File "game/screens.rpy", line 277: style property properties is not known.
+    properties gui.button_properties("quick_button")
+              ^
+
+File "game/screens.rpy", line 280: style property properties is not known.
+    properties gui.button_text_properties("quick_button")
+              ^
+
+File "game/screens.rpy", line 295: u'style_prefix' is not a keyword argument or valid child for the vbox statement.
+    style_prefix "navigation"
+                ^
+
+File "game/screens.rpy", line 340: style property properties is not known.
+    properties gui.button_properties("navigation_button")
+              ^
+
+File "game/screens.rpy", line 343: style property properties is not known.
+    properties gui.button_text_properties("navigation_button")
+              ^
+
+File "game/screens.rpy", line 357: u'style_prefix' is not a keyword argument or valid child for the screen statement.
+    style_prefix "main_menu"
+                ^
+
+File "game/screens.rpy", line 399: style property properties is not known.
+    properties gui.text_properties("main_menu", accent=True)
+              ^
+
+File "game/screens.rpy", line 402: style property properties is not known.
+    properties gui.text_properties("title")
+              ^
+
+File "game/screens.rpy", line 405: style property properties is not known.
+    properties gui.text_properties("version")
+              ^
+
+File "game/screens.rpy", line 419: u'style_prefix' is not a keyword argument or valid child for the screen statement.
+    style_prefix "game_menu"
+                ^
+
+File "game/screens.rpy", line 550: u'style_prefix' is not a keyword argument or valid child for the use statement.
+    style_prefix "about"
+                ^
+
+File "game/screens.rpy", line 615: u'key_events' is not a keyword argument or valid child for the button statement.
+    key_events True
+              ^
+
+File "game/screens.rpy", line 695: style property properties is not known.
+    properties gui.button_properties("page_button")
+              ^
+
+File "game/screens.rpy", line 698: style property properties is not known.
+    properties gui.button_text_properties("page_button")
+              ^
+
+File "game/screens.rpy", line 701: style property properties is not known.
+    properties gui.button_properties("slot_button")
+              ^
+
+File "game/screens.rpy", line 704: style property properties is not known.
+    properties gui.button_text_properties("slot_button")
+              ^
+
+File "game/screens.rpy", line 728: u'style_prefix' is not a keyword argument or valid child for the vbox statement.
+    style_prefix "radio"
+                ^
+
+File "game/screens.rpy", line 842: style property properties is not known.
+    properties gui.button_properties("radio_button")
+              ^
+
+File "game/screens.rpy", line 846: style property properties is not known.
+    properties gui.button_text_properties("radio_button")
+              ^
+
+File "game/screens.rpy", line 852: style property properties is not known.
+    properties gui.button_properties("check_button")
+              ^
+
+File "game/screens.rpy", line 856: style property properties is not known.
+    properties gui.button_text_properties("check_button")
+              ^
+
+File "game/screens.rpy", line 862: style property properties is not known.
+    properties gui.button_properties("slider_button")
+              ^
+
+File "game/screens.rpy", line 867: style property properties is not known.
+    properties gui.button_text_properties("slider_button")
+              ^
+
+File "game/screens.rpy", line 890: u'style_prefix' is not a keyword argument or valid child for the use statement.
+    style_prefix "history"
+                ^
+
+File "game/screens.rpy", line 977: u'style_prefix' is not a keyword argument or valid child for the use statement.
+    style_prefix "help"
+                ^
+
+File "game/screens.rpy", line 1105: style property properties is not known.
+    properties gui.button_properties("help_button")
+              ^
+
+File "game/screens.rpy", line 1109: style property properties is not known.
+    properties gui.button_text_properties("help_button")
+              ^
+
+File "game/screens.rpy", line 1141: u'style_prefix' is not a keyword argument or valid child for the screen statement.
+    style_prefix "confirm"
+                ^
+
+File "game/screens.rpy", line 1175: style property padding is not known.
+    padding gui.confirm_frame_borders.padding
+           ^
+
+File "game/screens.rpy", line 1184: style property properties is not known.
+    properties gui.button_properties("confirm_button")
+              ^
+
+File "game/screens.rpy", line 1187: style property properties is not known.
+    properties gui.button_text_properties("confirm_button")
+              ^
+
+File "game/screens.rpy", line 1200: u'style_prefix' is not a keyword argument or valid child for the screen statement.
+    style_prefix "skip"
+                ^
+
+File "game/screens.rpy", line 1235: style property padding is not known.
+    padding gui.skip_frame_borders.padding
+           ^
+
+File "game/screens.rpy", line 1256: u'style_prefix' is not a keyword argument or valid child for the screen statement.
+    style_prefix "notify"
+                ^
+
+File "game/screens.rpy", line 1279: style property padding is not known.
+    padding gui.notify_frame_borders.padding
+           ^
+
+File "game/screens.rpy", line 1282: style property properties is not known.
+    properties gui.text_properties("notify")
+              ^
+
+File "game/screens.rpy", line 1303: u'vpgrid' is not a keyword argument or valid child for the vbox statement.
+    vpgrid:
+          ^
+
+File "game/screens.rpy", line 1332: u'yfit' is not a keyword argument or valid child for the fixed statement.
+    yfit gui.nvl_height is None
+        ^
+
+File "game/screens.rpy", line 1361: style property padding is not known.
+    padding gui.nvl_borders.padding
+           ^
+
+File "game/screens.rpy", line 1395: style property properties is not known.
+    properties gui.button_properties("nvl_button")
+              ^
+
+File "game/screens.rpy", line 1400: style property properties is not known.
+    properties gui.button_text_properties("nvl_button")
+              ^
+
+File "game/screens.rpy", line 1420: u'style_prefix' is not a keyword argument or valid child for the hbox statement.
+    style_prefix "quick"
+                ^
+
+File "game/screens.rpy", line 1482: style property base_bar is not known.
+    base_bar Frame("gui/phone/scrollbar/horizontal_[prefix_]bar.png", gui.scrollbar_borders, tile=gui.scrollbar_tile)
+            ^
+
+File "game/screens.rpy", line 1488: style property base_bar is not known.
+    base_bar Frame("gui/phone/scrollbar/vertical_[prefix_]bar.png", gui.vscrollbar_borders, tile=gui.scrollbar_tile)
+            ^
+
+File "game/screens.rpy", line 1494: style property base_bar is not known.
+    base_bar Frame("gui/phone/slider/horizontal_[prefix_]bar.png", gui.slider_borders, tile=gui.slider_tile)
+            ^
+
+File "game/screens.rpy", line 1500: style property base_bar is not known.
+    base_bar Frame("gui/phone/slider/vertical_[prefix_]bar.png", gui.vslider_borders, tile=gui.slider_tile)
+            ^
+
+Ren'Py Version: Ren'Py 6.99.7.858

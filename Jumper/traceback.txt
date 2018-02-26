@@ -1,0 +1,21 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 13, in script
+    say "If you want to catch someone who can teleport, you do it when they're asleep."
+TypeError: say() takes at least 2 arguments (2 given)
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 13, in script
+    say "If you want to catch someone who can teleport, you do it when they're asleep."
+  File "C:\Program Files\renpy-6.99.7-sdk\renpy\ast.py", line 603, in execute
+    renpy.exports.say(who, what, interact=self.interact)
+  File "C:\Program Files\renpy-6.99.7-sdk\renpy\exports.py", line 1036, in say
+    who(what, interact=interact)
+TypeError: say() takes at least 2 arguments (2 given)
+
+Windows-7-6.1.7601-SP1
+Ren'Py 6.99.7.858
+Jumper 0.0
