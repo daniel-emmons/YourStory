@@ -143,6 +143,15 @@ Retrograde angle -  someone leaves the player a camera with a note(?). They leav
         </Document>
         <Document ID="12">
             <Title>Plot</Title>
+            <Text>Simple visual novel. The premise is that the protag has retrograde amnesia. Everyone else knows but them.
+
+
+Major Plot Points
+
+
+
+
+</Text>
         </Document>
         <Document ID="13">
             <Title>Outline</Title>
@@ -314,14 +323,7 @@ She gives you a codeword to help convince her past self
 </Text>
         </Document>
         <Document ID="21">
-<<<<<<< HEAD
             <Title>Jumper</Title>
-        </Document>
-        <Document ID="22">
-            <Title>“If you want to catch someone who can teleport,</Title>
-            <Text>“If you want to catch someone who can teleport, you go after then when they’re asleep”</Text>
-=======
-            <Title>The Player (Fool)</Title>
             <Text>As an exercise, we’re going to go through the ‘helping writers’ web series when I find something interesting
 
 The Lie the Character Believes - 
@@ -341,7 +343,10 @@ Where do I want them to end up?
 
 
 Use these characters to reflect the traits of the protagonist.</Text>
->>>>>>> d500de8ee32daf1342314fa70df16ea9b53b7815
+        </Document>
+        <Document ID="22">
+            <Title>“If you want to catch someone who can teleport,</Title>
+            <Text>“If you want to catch someone who can teleport, you go after then when they’re asleep”</Text>
         </Document>
     </Documents>
 </SearchIndexes>
