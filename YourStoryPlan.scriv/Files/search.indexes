@@ -289,7 +289,8 @@ If we use a ‘long buried note’ to end this thing, then the Hanged can’t ta
 
 First runs into her while she’s taking readings.
 She’s gruff, a little frustrated that she can’t find the place she’s looking for
-Start link by finding the point that fits her criteria. You can know this by finding the origin of your accident
+Start link by finding the point that fits her criteria. You can know this by finding the origin of your accident.
+She has to figure out you’ve been 
 
 1.
 Wonders where you came from and how you knew about the distortion spot.
@@ -304,19 +305,43 @@ We get a sense about her relationship with the Emperor
 
 3.
 She let’s her guard down a little
+She asks why you’re helping her. This could be a link ender
 
 4.
 More casual. She’s taking a break somewhere later at night.
-She asks why you’re helping her. This could be a link ender
-
+At this point she begins to suspect you’re time looping.
+She gives you a codeword to help convince her past self 
 </Text>
         </Document>
         <Document ID="21">
+<<<<<<< HEAD
             <Title>Jumper</Title>
         </Document>
         <Document ID="22">
             <Title>“If you want to catch someone who can teleport,</Title>
             <Text>“If you want to catch someone who can teleport, you go after then when they’re asleep”</Text>
+=======
+            <Title>The Player (Fool)</Title>
+            <Text>As an exercise, we’re going to go through the ‘helping writers’ web series when I find something interesting
+
+The Lie the Character Believes - 
+A side note. I think that this is why good game stories are so hard. Because the main character of all these games is the player, we have to re-contextualize character arcs. We’re no longer writing a character arc for a character, but rather for the player themselves.
+——
+The worldview that the player believes that we want to break them of.
+
+* This world exists for me
+* Everyone here is my plaything
+* I’m supposed to tell these characters what they want to hear.
+* I’m owed an ending to this game
+* I’m owed a game at all
+
+
+
+Where do I want them to end up?
+
+
+Use these characters to reflect the traits of the protagonist.</Text>
+>>>>>>> d500de8ee32daf1342314fa70df16ea9b53b7815
         </Document>
     </Documents>
 </SearchIndexes>
